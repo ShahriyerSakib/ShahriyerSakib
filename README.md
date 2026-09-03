@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shahriyer Sakib</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 
+Hi, I'm Shahriyer H. Sakib
+Software Developer | CSE Student
+
+About Me
+────────
+Short introduction
+
+Currently
+─────────
+• Exploring Next.js
+• Building web applications
+• Learning AI & Automation
+• Working on SaaS ideas
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriyersakib" alt="shahriyersakib" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
